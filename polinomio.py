@@ -1,3 +1,14 @@
+"""
+1.0 Faça um programa para avaliar equações polinomiais. O usuário deverá digitar numa linha o grau do polinômio, e na linha seguinte os valores dos coeficientes em ordem decrescente e o valor da variável separados por espaço, lembrando que os coeficientes e valor da variável podem ser reais.
+Por exemplo, para o caso f(x) = 2x² - 3x + 7 com x = 5, temos
+
+Entrada: 
+2 -
+2 -3 7 5
+
+Saída:
+42.0
+"""
 a = []
 print('Digite o grau do polinômio: (1/2/3)')
 poten = grau = int(input(' '))
