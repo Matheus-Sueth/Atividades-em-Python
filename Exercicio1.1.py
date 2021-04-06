@@ -10,5 +10,5 @@ n = int(input('Digite quantos números você vai digitar: '))
 while (i < n):
   lista.append(int(input('Digite ' + str(i+1) + '° número: ')))
   i+=1
-for i in lista:
-  print(i**2)
+for m in lista:
+  print(m**2)
