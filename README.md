@@ -1,2 +1,2 @@
 # Atividades-em-Python
-Exercícios para aprendizagem, tirados do site: https://wiki.python.org.br/ListaDeExercicios
+Exercícios para aprendizagem, a maior parte foi retirado do site: https://wiki.python.org.br/ListaDeExercicios
